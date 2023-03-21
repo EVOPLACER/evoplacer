@@ -1,5 +1,5 @@
 # EVO PLACER
 
-Open Source 3D printed SMT Pick and Place machine
+Open Source 3D printed SMT Pick and Place machine.
 
 ## Introduction
