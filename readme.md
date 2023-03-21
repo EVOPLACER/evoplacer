@@ -1,6 +1,6 @@
 # EVO PLACER
 
-![EVO PLACER](./Assets/EVO-PLACER.jpg)
+<img src="/Assets/EVO-PLACER.jpg" alt="EVO PLACER" style="width:300px;"/>
 
 Open Source 3D printed SMT Pick and Place machine.
 Based on OpenPNP.
