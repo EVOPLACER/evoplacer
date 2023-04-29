@@ -9,6 +9,6 @@ Based on OpenPNP.
 
 <img src="/Assets/EVO-PLACER Head.jpg" alt="EVO PLACER" style="width:600px;"/>
 
-## Tool Change
+## Atomatic Tool Change
 
-<img src="/Assets/TOOL-CHANGE.png" alt="EVO PLACER" style="width:600px;"/>
+<img src="/Assets/AUTOMATIC-TOOL-CHANGE.png" alt="EVO PLACER" style="width:600px;"/>
